@@ -12,3 +12,10 @@ This repository is developed in Python using Jupyter Notebook and was inspired f
 The tutorial that this code was inspired was from a Udemy course called "<i>Python for Data Science & Machine Learning: Zero to Hero</i>".
 
 Link to Python for Data Science & Machine Learning: Zero to Hero course: <a href="https://www.udemy.com/course/python-for-data-science-machine-learning-zero-to-hero/">https://www.udemy.com/course/python-for-data-science-machine-learning-zero-to-hero/</a>
+
+## Python Libraries
+The Python libraries used in <code>Movie Recommender System.ipynb</code> file are:
+  * NumPy
+  * Matplotlib
+  * Seaborn
+  * Pandas
